@@ -42,7 +42,7 @@
 
 1. **注册并登录官网**：**[https://aihub.dog/register?aff=6G6L8NV7UHVM](https://aihub.dog/register?aff=6G6L8NV7UHVM)**
 2. **挑选渠道并生成 API Key**：在控制台查看各模型分组的实时倍率与监控状态，创建你的 `API Key` 并查看对应的接口地址（`Base URL`）。
-3. **配置到常用工具或代码**：将 `Base URL` 与 `API Key` 填入 Cursor、Cline、Cherry Studio、NextChat、Open WebUI 等工具，或参考 [`examples/quickstart.py`](./examples/quickstart.py) 使用 OpenAI 官方 Python SDK 调用。
+3. **配置到常用工具或代码**：推荐使用 **ccSwitch** 统一管理并一键切换 AIHub 的 `Base URL` 与 `API Key`，或参考 [`examples/quickstart.py`](./examples/quickstart.py) 使用 OpenAI 官方 Python SDK 调用。
 
 ---
 
