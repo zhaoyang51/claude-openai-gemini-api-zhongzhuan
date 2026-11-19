@@ -7,7 +7,8 @@
 
 > [!TIP]
 > 🔗 **AIHub 官方注册入口**：  
-> 👉 **[https://aihub.dog/register?aff=6G6L8NV7UHVM](https://aihub.dog/register?aff=6G6L8NV7UHVM)**
+> - 主入口：**[https://aihub.dog/register?aff=6G6L8NV7UHVM](https://aihub.dog/register?aff=6G6L8NV7UHVM)**  
+> - 备用入口：**[https://aihub.top/register?aff=6G6L8NV7UHVM](https://aihub.top/register?aff=6G6L8NV7UHVM)**
 
 ---
 
@@ -40,9 +41,9 @@
 
 ## 🚀 快速接入步骤
 
-1. **注册并登录官网**：**[https://aihub.dog/register?aff=6G6L8NV7UHVM](https://aihub.dog/register?aff=6G6L8NV7UHVM)**
+1. **注册并登录官网**：**[https://aihub.dog/register?aff=6G6L8NV7UHVM](https://aihub.dog/register?aff=6G6L8NV7UHVM)**（备用域名：**[https://aihub.top/register?aff=6G6L8NV7UHVM](https://aihub.top/register?aff=6G6L8NV7UHVM)**）
 2. **挑选渠道并生成 API Key**：在控制台查看各模型分组的实时倍率与监控状态，创建你的 `API Key` 并查看对应的接口地址（`Base URL`）。
-3. **配置到常用工具或代码**：推荐使用 **ccSwitch** 统一管理并一键切换 AIHub 的 `Base URL` 与 `API Key`，或参考 [`examples/quickstart.py`](./examples/quickstart.py) 使用 OpenAI 官方 Python SDK 调用。
+3. **配置到常用工具或代码**：推荐使用开源工具 **[ccSwitch](https://github.com/farion1231/cc-switch)** 统一管理并一键切换 AIHub 的 `Base URL` 与 `API Key`，或参考 [`examples/quickstart.py`](./examples/quickstart.py) 使用 OpenAI 官方 Python SDK 调用。
 
 ---
 
