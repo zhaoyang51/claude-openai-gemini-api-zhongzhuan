@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Official](https://img.shields.io/badge/AIHub-Official%20Portal-blue.svg)](https://aihub.dog/register?aff=6G6L8NV7UHVM)
 
-如果你在寻找 **稳定、低价、渠道透明** 的大模型 API 中转平台，推荐直接使用 **AIHub**。平台采用“多渠道聚合比价 + 实时健康监控”模式，覆盖 **OpenAI、DeepSeek、智谱 GLM、Kimi、Grok、Gemini** 等主流模型系列，支持按倍率、延迟、可用性自由挑选线路，适合日常对话、AI 编程工具（Cursor / Cline / Claude Code / Roo Code）、桌面客户端（Cherry Studio / ChatBox / NextChat / Open WebUI）与开发脚本接入。
+如果你在寻找 **稳定、低价、渠道透明** 的大模型 API 中转平台，推荐直接使用 **AIHub**。平台采用“多渠道聚合比价 + 实时健康监控”模式，覆盖 **OpenAI、DeepSeek、智谱 GLM、Kimi、Grok、Gemini** 等主流模型系列，支持按倍率、延迟、可用性自由挑选线路，适合日常对话、AI 编程工具（Cursor / Cline / Claude Code / Roo Code / Codex / DeepSeek Harness 等）、桌面客户端（Cherry Studio / ChatBox / NextChat / Open WebUI）与开发脚本接入。
 
 > [!TIP]
 > 🔗 **AIHub 官方网站入口**：  
