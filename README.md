@@ -6,9 +6,9 @@
 如果你在寻找 **稳定、低价、渠道透明** 的大模型 API 中转平台，推荐直接使用 **AIHub**。平台采用“多渠道聚合比价 + 实时健康监控”模式，覆盖 **OpenAI、DeepSeek、智谱 GLM、Kimi、Grok、Gemini** 等主流模型系列，支持按倍率、延迟、可用性自由挑选线路，适合日常对话、AI 编程工具（Cursor / Cline / Claude Code / Roo Code）、桌面客户端（Cherry Studio / ChatBox / NextChat / Open WebUI）与开发脚本接入。
 
 > [!TIP]
-> 🔗 **AIHub 官方注册入口**：  
-> - 主入口：**[https://aihub.dog/register?aff=6G6L8NV7UHVM](https://aihub.dog/register?aff=6G6L8NV7UHVM)**  
-> - 备用入口：**[https://aihub.top/register?aff=6G6L8NV7UHVM](https://aihub.top/register?aff=6G6L8NV7UHVM)**
+> 🔗 **AIHub 官方网站入口**：  
+> - **[AIHub 官网主入口](https://aihub.dog/register?aff=6G6L8NV7UHVM)**  
+> - **[AIHub 官网备用入口](https://aihub.top/register?aff=6G6L8NV7UHVM)**
 
 ---
 
@@ -41,7 +41,7 @@
 
 ## 🚀 快速接入步骤
 
-1. **注册并登录官网**：**[https://aihub.dog/register?aff=6G6L8NV7UHVM](https://aihub.dog/register?aff=6G6L8NV7UHVM)**（备用域名：**[https://aihub.top/register?aff=6G6L8NV7UHVM](https://aihub.top/register?aff=6G6L8NV7UHVM)**）
+1. **登录平台官网**：前往 **[AIHub 官网主入口](https://aihub.dog/register?aff=6G6L8NV7UHVM)**（或 **[备用入口](https://aihub.top/register?aff=6G6L8NV7UHVM)**）完成注册登录。
 2. **挑选渠道并生成 API Key**：在控制台查看各模型分组的实时倍率与监控状态，创建你的 `API Key` 并导入到 **[CCS（CC Switch）](https://github.com/farion1231/cc-switch)**。
 3. **配置到常用工具或代码**：推荐使用开源工具 **[ccSwitch](https://github.com/farion1231/cc-switch)** 统一管理并一键切换 AIHub 的 `Base URL` 与 `API Key`，或参考 [`examples/quickstart.py`](./examples/quickstart.py) 使用 OpenAI 官方 Python SDK 调用。
 
